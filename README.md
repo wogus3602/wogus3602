@@ -3,18 +3,15 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwogus3602&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23FD9426&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![wogus3602's github stats](https://github-readme-stats.vercel.app/api?username=wogus3602&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogus3602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wogus3602@gmail.com)](mailto:wogus3602@gmail.com)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogus3602&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wogus3602@gmail.com)](mailto:wogus3602@gmail.com)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwogus3602&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23FD9426&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **wogus3602/wogus3602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
