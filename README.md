@@ -1,15 +1,11 @@
 
-
-<div align=center>
-  
-[![wogus3602's github stats](https://github-readme-stats.vercel.app/api?username=wogus3602&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ### 🌱 iOS 공부중
 
 ### Interest
 - Swift
+
+  
+[![wogus3602's github stats](https://github-readme-stats.vercel.app/api?username=wogus3602&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
