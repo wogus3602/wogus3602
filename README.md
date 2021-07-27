@@ -1,5 +1,5 @@
 
-### 🪴 iOS 공부중
+### 🪴 SwiftUI 공부중
 
 [![wogus3602's github stats](https://github-readme-stats.vercel.app/api?username=wogus3602&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
